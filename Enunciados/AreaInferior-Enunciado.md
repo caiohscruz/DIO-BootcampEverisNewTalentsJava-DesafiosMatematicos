@@ -4,7 +4,7 @@ Segue abaixo o texto extraído da plataforma referente ao desafio.
 
 Leia um caractere maiúsculo, que indica uma operação que deve ser realizada e uma matriz **M**\[12\]\[12\]. Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão na área direita da matriz, conforme ilustrado abaixo (área verde).
 
-![](https://github.com/caiohscruz/DigitalInnovationOne/blob/master/Desafios%20Java/src/DesafiosMatematicos/SetoresMatriz/img/img_areainferior.png?raw=true)
+![](https://github.com/caiohscruz/DIO-Desafio-SetoresMatriz/blob/master/Imagens/img_areainferior.png?raw=true)
 
 ## Entrada
 
